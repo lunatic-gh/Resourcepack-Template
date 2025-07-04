@@ -12,3 +12,8 @@
 - When done, run the "build.py" script. It will convert all psd's to png's and put them into "assets" so they can be
   read by minecraft.
 - Reload your resources ingame, and you're good to go.
+
+# Licensing
+The "build.py" script is licensed under MIT. See the file's header for more information.
+
+The rest is unlicensed. Do with it whatever you want.
